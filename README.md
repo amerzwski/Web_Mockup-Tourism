@@ -1,1 +1,1 @@
-# School-project
+# Tourism Website Mockup
