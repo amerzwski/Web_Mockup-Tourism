@@ -5,7 +5,7 @@
 
 ### Instructions
 
-  1. Download **Taniti.zip**
+  1. Download **Taniti.zip** (click on *"View Raw"* link to initiate download)
  
   2. Open **index.html** in \Invision directory
   
