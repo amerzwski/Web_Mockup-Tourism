@@ -12,4 +12,3 @@ This project is a multi-page, interactive mockup of a fictional tourism website 
   
 ## Examples
 
-<img src="screen-recording.gif" width="1400" height="800" />
